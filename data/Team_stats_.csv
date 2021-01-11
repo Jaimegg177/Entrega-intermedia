@@ -1,0 +1,1473 @@
+Line,Year,Tm,Team_Name,Wins,Points,Bigger_Budget
+0,2019,LAL,Los Angeles Lakers,19,120.8,True
+1,2018,LAL,Los Angeles Lakers,45,87.4,False
+2,2017,LAL,Los Angeles Lakers,48,109.6,False
+3,2016,LAL,Los Angeles Lakers,56,119.3,False
+4,2015,LAL,Los Angeles Lakers,65,121.9,False
+5,2014,LAL,Los Angeles Lakers,61,87.6,True
+6,2013,LAL,Los Angeles Lakers,55,111.9,True
+7,2012,LAL,Los Angeles Lakers,37,92.5,False
+8,2011,LAL,Los Angeles Lakers,25,110.1,True
+9,2010,LAL,Los Angeles Lakers,25,113.0,True
+10,2009,LAL,Los Angeles Lakers,25,115.1,False
+11,2008,LAL,Los Angeles Lakers,17,82.6,True
+12,2007,LAL,Los Angeles Lakers,25,112.1,False
+13,2006,LAL,Los Angeles Lakers,40,115.0,True
+14,2005,LAL,Los Angeles Lakers,37,108.9,True
+15,2004,LAL,Los Angeles Lakers,48,103.1,True
+16,2003,LAL,Los Angeles Lakers,26,93.9,True
+17,2002,LAL,Los Angeles Lakers,32,117.1,False
+18,2001,LAL,Los Angeles Lakers,24,94.3,False
+19,2000,LAL,Los Angeles Lakers,26,103.5,False
+20,1999,LAL,Los Angeles Lakers,15,90.9,False
+21,1998,LAL,Los Angeles Lakers,19,85.2,False
+22,1997,LAL,Los Angeles Lakers,21,101.4,True
+23,1996,LAL,Los Angeles Lakers,26,95.9,False
+24,1995,LAL,Los Angeles Lakers,29,122.1,True
+25,1994,LAL,Los Angeles Lakers,34,88.3,True
+26,1993,LAL,Los Angeles Lakers,49,115.0,True
+27,1992,LAL,Los Angeles Lakers,43,117.3,True
+28,1991,LAL,Los Angeles Lakers,39,124.0,True
+29,1990,LAL,Los Angeles Lakers,24,105.8,True
+30,1989,LAL,Los Angeles Lakers,19,109.4,True
+31,1988,LAL,Los Angeles Lakers,25,91.1,False
+32,1987,LAL,Los Angeles Lakers,20,118.4,False
+33,1986,LAL,Los Angeles Lakers,17,124.6,True
+34,1985,LAL,Los Angeles Lakers,20,95.9,True
+35,1984,LAL,Los Angeles Lakers,20,121.1,False
+36,1983,LAL,Los Angeles Lakers,28,88.1,False
+37,1982,LAL,Los Angeles Lakers,24,93.7,True
+38,1981,LAL,Los Angeles Lakers,25,118.7,False
+39,1980,LAL,Los Angeles Lakers,28,85.0,False
+40,1979,LAL,Los Angeles Lakers,22,97.8,True
+41,1978,LAL,Los Angeles Lakers,35,108.2,True
+42,1977,LAL,Los Angeles Lakers,37,87.6,False
+43,1976,LAL,Los Angeles Lakers,29,95.8,False
+44,1975,LAL,Los Angeles Lakers,42,109.4,False
+45,1974,LAL,Los Angeles Lakers,52,124.3,True
+46,1973,LAL,Los Angeles Lakers,35,86.1,True
+47,1972,LAL,Los Angeles Lakers,22,91.8,False
+48,1971,LAL,Los Angeles Lakers,13,92.1,True
+49,1970,LAL,Los Angeles Lakers,34,95.7,False
+50,1969,LAL,Los Angeles Lakers,36,96.8,False
+51,1968,LAL,Los Angeles Lakers,27,123.6,False
+52,1967,LAL,Los Angeles Lakers,30,83.2,True
+53,1966,LAL,Los Angeles Lakers,45,104.7,False
+54,1965,LAL,Los Angeles Lakers,35,104.1,True
+55,1964,LAL,Los Angeles Lakers,31,109.2,True
+56,1963,LAL,Los Angeles Lakers,38,95.7,False
+57,1962,LAL,Los Angeles Lakers,27,107.9,True
+58,1961,LAL,Los Angeles Lakers,26,85.1,False
+59,1960,LAL,Los Angeles Lakers,43,94.3,False
+60,1959,LAL,Minneapolis Lakers,50,103.3,False
+61,1958,LAL,Minneapolis Lakers,39,114.2,True
+62,1957,LAL,Minneapolis Lakers,53,114.3,True
+63,1956,LAL,Minneapolis Lakers,38,118.4,False
+64,1955,LAL,Minneapolis Lakers,39,114.1,False
+65,1954,LAL,Minneapolis Lakers,32,107.0,True
+66,1953,LAL,Minneapolis Lakers,26,99.5,False
+67,1952,LAL,Minneapolis Lakers,22,108.6,False
+68,1951,LAL,Minneapolis Lakers,26,98.2,False
+69,1950,LAL,Minneapolis Lakers,24,82.7,False
+70,1949,LAL,Minneapolis Lakers,17,105.2,True
+71,1948,LAL,Minneapolis Lakers,16,113.5,True
+72,2019,GSW,Golden State Warriors,50,106.1,False
+73,2018,GSW,Golden State Warriors,25,112.6,False
+74,2017,GSW,Golden State Warriors,24,119.1,True
+75,2016,GSW,Golden State Warriors,15,113.9,True
+76,2015,GSW,Golden State Warriors,9,117.3,True
+77,2014,GSW,Golden State Warriors,15,100.3,True
+78,2013,GSW,Golden State Warriors,31,90.8,False
+79,2012,GSW,Golden State Warriors,35,121.4,True
+80,2011,GSW,Golden State Warriors,43,89.7,True
+81,2010,GSW,Golden State Warriors,46,83.6,True
+82,2009,GSW,Golden State Warriors,56,108.5,True
+83,2008,GSW,Golden State Warriors,53,107.1,False
+84,2007,GSW,Golden State Warriors,34,85.8,False
+85,2006,GSW,Golden State Warriors,40,114.7,True
+86,2005,GSW,Golden State Warriors,48,108.3,True
+87,2004,GSW,Golden State Warriors,48,104.4,True
+88,2003,GSW,Golden State Warriors,45,87.0,True
+89,2002,GSW,Golden State Warriors,44,109.2,True
+90,2001,GSW,Golden State Warriors,61,90.0,True
+91,2000,GSW,Golden State Warriors,65,113.7,False
+92,1999,GSW,Golden State Warriors,63,121.2,False
+93,1998,GSW,Golden State Warriors,29,94.2,False
+94,1997,GSW,Golden State Warriors,63,89.4,False
+95,1996,GSW,Golden State Warriors,52,101.3,True
+96,1995,GSW,Golden State Warriors,46,119.7,True
+97,1994,GSW,Golden State Warriors,56,86.7,False
+98,1993,GSW,Golden State Warriors,32,104.9,False
+99,1992,GSW,Golden State Warriors,48,119.1,True
+100,1991,GSW,Golden State Warriors,27,122.9,True
+101,1990,GSW,Golden State Warriors,38,97.0,True
+102,1989,GSW,Golden State Warriors,45,118.0,True
+103,1988,GSW,Golden State Warriors,39,95.6,True
+104,1987,GSW,Golden State Warriors,62,119.2,True
+105,1986,GSW,Golden State Warriors,40,107.8,False
+106,1985,GSW,Golden State Warriors,52,95.0,False
+107,1984,GSW,Golden State Warriors,60,121.3,True
+108,1983,GSW,Golden State Warriors,45,111.4,True
+109,1982,GSW,Golden State Warriors,52,84.6,False
+110,1981,GSW,Golden State Warriors,37,116.8,False
+111,1980,GSW,Golden State Warriors,43,117.9,True
+112,1979,GSW,Golden State Warriors,58,120.9,False
+113,1978,GSW,Golden State Warriors,44,123.2,False
+114,1977,GSW,Golden State Warriors,39,116.6,True
+115,1976,GSW,Golden State Warriors,36,89.2,False
+116,1975,GSW,Golden State Warriors,23,119.9,True
+117,1974,GSW,Golden State Warriors,34,108.8,True
+118,1973,GSW,Golden State Warriors,38,97.3,False
+119,1972,GSW,Golden State Warriors,35,87.3,False
+120,1971,GSW,Golden State Warriors,31,115.8,True
+121,1970,GSW,San Francisco Warriors,41,84.6,False
+122,1969,GSW,San Francisco Warriors,52,109.9,False
+123,1968,GSW,San Francisco Warriors,41,92.0,False
+124,1967,GSW,San Francisco Warriors,39,91.9,True
+125,1966,GSW,San Francisco Warriors,37,115.2,True
+126,1965,GSW,San Francisco Warriors,45,89.1,True
+127,1964,GSW,San Francisco Warriors,63,113.2,False
+128,1963,GSW,San Francisco Warriors,32,93.8,True
+129,1962,GSW,San Francisco Warriors,49,100.9,True
+130,1961,GSW,Philadelphia Warriors,31,99.5,False
+131,1960,GSW,Philadelphia Warriors,33,119.1,True
+132,1959,GSW,Philadelphia Warriors,26,114.1,False
+133,1958,GSW,Philadelphia Warriors,40,110.2,False
+134,1957,GSW,Philadelphia Warriors,35,114.9,True
+135,1956,GSW,Philadelphia Warriors,35,101.8,False
+136,1955,GSW,Philadelphia Warriors,27,99.6,True
+137,1954,GSW,Philadelphia Warriors,39,82.7,True
+138,1953,GSW,Philadelphia Warriors,43,84.4,True
+139,1952,GSW,Philadelphia Warriors,57,115.8,True
+140,1951,GSW,Philadelphia Warriors,33,102.3,False
+141,1950,GSW,Philadelphia Warriors,26,107.4,True
+142,1949,GSW,Philadelphia Warriors,42,88.4,False
+143,1948,GSW,Philadelphia Warriors,32,87.8,True
+144,1947,GSW,Philadelphia Warriors,21,91.7,False
+145,1946,GSW,Philadelphia Warriors,25,123.5,True
+146,2019,PHO,Phoenix Suns,39,91.6,True
+147,2018,PHO,Phoenix Suns,63,110.8,False
+148,2017,PHO,Phoenix Suns,61,96.0,True
+149,2016,PHO,Phoenix Suns,58,116.3,False
+150,2015,PHO,Phoenix Suns,59,98.5,True
+151,2014,PHO,Phoenix Suns,43,107.1,False
+152,2013,PHO,Phoenix Suns,34,118.0,True
+153,2012,PHO,Phoenix Suns,57,122.0,True
+154,2011,PHO,Phoenix Suns,33,105.4,False
+155,2010,PHO,Phoenix Suns,42,93.2,True
+156,2009,PHO,Phoenix Suns,28,100.2,True
+157,2008,PHO,Phoenix Suns,36,109.7,True
+158,2007,PHO,Phoenix Suns,27,88.8,True
+159,2006,PHO,Phoenix Suns,21,85.7,False
+160,2005,PHO,Phoenix Suns,28,125.0,True
+161,2004,PHO,Phoenix Suns,20,114.0,False
+162,2003,PHO,Phoenix Suns,53,93.7,True
+163,2002,PHO,Phoenix Suns,38,124.6,True
+164,2001,PHO,Phoenix Suns,46,94.5,False
+165,2000,PHO,Phoenix Suns,31,88.3,True
+166,1999,PHO,Phoenix Suns,29,110.5,False
+167,1998,PHO,Phoenix Suns,23,94.1,True
+168,1997,PHO,Phoenix Suns,26,114.2,False
+169,1996,PHO,Phoenix Suns,42,89.6,False
+170,1995,PHO,Phoenix Suns,41,85.7,False
+171,1994,PHO,Phoenix Suns,23,109.4,False
+172,1993,PHO,Phoenix Suns,26,89.6,False
+173,1992,PHO,Phoenix Suns,20,102.1,False
+174,1991,PHO,Phoenix Suns,29,99.5,False
+175,1990,PHO,Phoenix Suns,27,87.3,True
+176,1989,PHO,Phoenix Suns,28,84.4,True
+177,1988,PHO,Phoenix Suns,27,86.1,False
+178,1987,PHO,Phoenix Suns,54,113.3,True
+179,1986,PHO,Phoenix Suns,46,86.2,False
+180,1985,PHO,Phoenix Suns,50,90.6,True
+181,1984,PHO,Phoenix Suns,46,109.2,False
+182,1983,PHO,Phoenix Suns,41,103.0,True
+183,1982,PHO,Phoenix Suns,29,82.8,False
+184,1981,PHO,Phoenix Suns,36,82.2,False
+185,1980,PHO,Phoenix Suns,25,95.4,True
+186,1979,PHO,Phoenix Suns,27,111.7,False
+187,1978,PHO,Phoenix Suns,32,119.7,True
+188,1977,PHO,Phoenix Suns,33,110.1,True
+189,1976,PHO,Phoenix Suns,48,91.7,False
+190,1975,PHO,Phoenix Suns,40,97.0,False
+191,1974,PHO,Phoenix Suns,50,116.5,False
+192,1973,PHO,Phoenix Suns,52,110.7,False
+193,1972,PHO,Phoenix Suns,44,102.4,True
+194,1971,PHO,Phoenix Suns,33,120.1,True
+195,1970,PHO,Phoenix Suns,34,112.1,True
+196,1969,PHO,Phoenix Suns,43,109.6,True
+197,1968,PHO,Phoenix Suns,66,113.7,True
+198,2019,BOS,Boston Celtics,24,124.0,True
+199,2018,BOS,Boston Celtics,33,99.3,False
+200,2017,BOS,Boston Celtics,27,87.4,False
+201,2016,BOS,Boston Celtics,29,85.9,False
+202,2015,BOS,Boston Celtics,34,108.2,False
+203,2014,BOS,Boston Celtics,42,97.7,True
+204,2013,BOS,Boston Celtics,57,82.6,True
+205,2012,BOS,Boston Celtics,40,85.6,False
+206,2011,BOS,Boston Celtics,27,106.5,True
+207,2010,BOS,Boston Celtics,26,104.5,False
+208,2009,BOS,Boston Celtics,32,114.4,False
+209,2008,BOS,Boston Celtics,20,84.5,False
+210,2007,BOS,Boston Celtics,16,111.1,True
+211,2006,BOS,Boston Celtics,58,85.4,False
+212,2005,BOS,Boston Celtics,49,101.0,False
+213,2004,BOS,Boston Celtics,37,82.2,True
+214,2003,BOS,Boston Celtics,46,116.6,True
+215,2002,BOS,Boston Celtics,38,99.7,False
+216,2001,BOS,Boston Celtics,33,88.3,True
+217,2000,BOS,Boston Celtics,46,111.0,True
+218,1999,BOS,Boston Celtics,47,96.4,True
+219,1998,BOS,Boston Celtics,31,112.7,True
+220,1997,BOS,Boston Celtics,46,94.0,False
+221,1996,BOS,Boston Celtics,67,122.9,False
+222,1995,BOS,Boston Celtics,49,117.7,True
+223,1994,BOS,Boston Celtics,47,123.7,True
+224,1993,BOS,Boston Celtics,50,120.8,False
+225,1992,BOS,Boston Celtics,34,121.8,False
+226,1991,BOS,Boston Celtics,31,100.3,False
+227,1990,BOS,Boston Celtics,26,83.4,True
+228,1989,BOS,Boston Celtics,30,83.7,False
+229,1988,BOS,Boston Celtics,40,97.6,True
+230,1987,BOS,Boston Celtics,25,120.7,True
+231,1986,BOS,Boston Celtics,23,94.9,True
+232,1985,BOS,Boston Celtics,15,82.1,False
+233,1984,BOS,Boston Celtics,19,119.6,True
+234,1983,BOS,Boston Celtics,20,123.6,False
+235,1982,BOS,Boston Celtics,26,86.5,False
+236,1981,BOS,Boston Celtics,19,98.2,True
+237,1980,BOS,Boston Celtics,20,98.7,True
+238,1979,BOS,Boston Celtics,21,103.3,False
+239,1978,BOS,Boston Celtics,53,91.4,False
+240,1977,BOS,Boston Celtics,50,95.8,False
+241,1976,BOS,Boston Celtics,38,93.8,False
+242,1975,BOS,Boston Celtics,28,97.0,True
+243,1974,BOS,Boston Celtics,22,111.9,False
+244,1973,BOS,Boston Celtics,26,96.9,False
+245,1972,BOS,Boston Celtics,14,93.8,True
+246,1971,BOS,Boston Celtics,26,109.0,True
+247,1970,BOS,Boston Celtics,38,95.5,False
+248,1969,BOS,Boston Celtics,48,102.8,True
+249,1968,BOS,Boston Celtics,34,87.3,False
+250,1967,BOS,Boston Celtics,28,117.6,False
+251,1966,BOS,Boston Celtics,21,121.5,True
+252,1965,BOS,Boston Celtics,26,87.8,True
+253,1964,BOS,Boston Celtics,18,110.1,False
+254,1963,BOS,Boston Celtics,21,103.8,False
+255,1962,BOS,Boston Celtics,22,120.1,True
+256,1961,BOS,Boston Celtics,20,100.3,False
+257,1960,BOS,Boston Celtics,22,117.3,True
+258,1959,BOS,Boston Celtics,16,114.7,True
+259,1958,BOS,Boston Celtics,20,101.7,True
+260,1957,BOS,Boston Celtics,23,94.3,True
+261,1956,BOS,Boston Celtics,28,96.6,False
+262,1955,BOS,Boston Celtics,33,89.1,True
+263,1954,BOS,Boston Celtics,36,118.6,True
+264,1953,BOS,Boston Celtics,30,105.9,False
+265,1952,BOS,Boston Celtics,25,120.6,False
+266,1951,BOS,Boston Celtics,27,83.6,True
+267,1950,BOS,Boston Celtics,30,101.0,False
+268,1949,BOS,Boston Celtics,46,93.5,True
+269,1948,BOS,Boston Celtics,35,87.4,False
+270,1947,BOS,Boston Celtics,28,103.1,False
+271,1946,BOS,Boston Celtics,38,121.4,True
+272,2019,CHI,Chicago Bulls,43,99.2,True
+273,2018,CHI,Chicago Bulls,60,111.8,False
+274,2017,CHI,Chicago Bulls,55,107.2,False
+275,2016,CHI,Chicago Bulls,41,123.7,False
+276,2015,CHI,Chicago Bulls,40,86.1,False
+277,2014,CHI,Chicago Bulls,32,114.6,True
+278,2013,CHI,Chicago Bulls,34,109.1,True
+279,2012,CHI,Chicago Bulls,37,93.7,False
+280,2011,CHI,Chicago Bulls,16,119.3,False
+281,2010,CHI,Chicago Bulls,20,86.0,False
+282,2009,CHI,Chicago Bulls,41,92.0,False
+283,2008,CHI,Chicago Bulls,41,120.8,False
+284,2007,CHI,Chicago Bulls,49,97.4,True
+285,2006,CHI,Chicago Bulls,33,102.6,False
+286,2005,CHI,Chicago Bulls,41,101.7,False
+287,2004,CHI,Chicago Bulls,35,122.3,True
+288,2003,CHI,Chicago Bulls,59,92.8,False
+289,2002,CHI,Chicago Bulls,52,82.9,True
+290,2001,CHI,Chicago Bulls,61,97.1,True
+291,2000,CHI,Chicago Bulls,67,86.5,False
+292,1999,CHI,Chicago Bulls,65,91.2,True
+293,1998,CHI,Chicago Bulls,37,121.8,True
+294,1997,CHI,Chicago Bulls,20,88.8,False
+295,1996,CHI,Chicago Bulls,13,109.1,True
+296,1995,CHI,Chicago Bulls,10,115.5,True
+297,1994,CHI,Chicago Bulls,35,114.9,True
+298,1993,CHI,Chicago Bulls,27,103.9,True
+299,1992,CHI,Chicago Bulls,25,119.5,False
+300,1991,CHI,Chicago Bulls,15,120.3,False
+301,1990,CHI,Chicago Bulls,21,105.0,True
+302,1989,CHI,Chicago Bulls,27,115.7,True
+303,1988,CHI,Chicago Bulls,35,107.7,True
+304,1987,CHI,Chicago Bulls,32,86.5,False
+305,1986,CHI,Chicago Bulls,42,88.1,False
+306,1985,CHI,Chicago Bulls,52,99.4,True
+307,1984,CHI,Chicago Bulls,44,115.5,False
+308,1983,CHI,Chicago Bulls,55,97.9,False
+309,1982,CHI,Chicago Bulls,54,84.7,True
+310,1981,CHI,Chicago Bulls,48,99.1,True
+311,1980,CHI,Chicago Bulls,37,104.3,False
+312,1979,CHI,Chicago Bulls,52,124.4,False
+313,1978,CHI,Chicago Bulls,51,86.0,False
+314,1977,CHI,Chicago Bulls,42,103.3,True
+315,1976,CHI,Chicago Bulls,38,118.7,False
+316,1975,CHI,Chicago Bulls,58,85.0,False
+317,1974,CHI,Chicago Bulls,35,84.3,False
+318,1973,CHI,Chicago Bulls,28,84.1,False
+319,1972,CHI,Chicago Bulls,31,83.0,False
+320,1971,CHI,Chicago Bulls,25,96.9,False
+321,1970,CHI,Chicago Bulls,31,109.0,False
+322,1969,CHI,Chicago Bulls,43,89.6,True
+323,1968,CHI,Chicago Bulls,49,86.8,True
+324,1967,CHI,Chicago Bulls,53,95.5,True
+325,1966,CHI,Chicago Bulls,48,100.5,True
+326,2019,IND,Indiana Pacers,28,116.0,True
+327,2018,IND,Indiana Pacers,34,113.1,False
+328,2017,IND,Indiana Pacers,34,86.9,True
+329,2016,IND,Indiana Pacers,40,101.0,True
+330,2015,IND,Indiana Pacers,37,84.3,False
+331,2014,IND,Indiana Pacers,44,104.0,False
+332,2013,IND,Indiana Pacers,26,112.9,False
+333,2012,IND,Indiana Pacers,32,86.3,False
+334,2011,IND,Indiana Pacers,24,101.9,False
+335,2010,IND,Indiana Pacers,45,114.5,False
+336,2009,IND,Indiana Pacers,50,114.0,False
+337,2008,IND,Indiana Pacers,46,104.1,True
+338,2007,IND,Indiana Pacers,46,100.8,True
+339,2006,IND,Indiana Pacers,47,86.1,True
+340,2005,IND,Indiana Pacers,41,113.6,True
+341,2004,IND,Indiana Pacers,38,103.7,True
+342,2003,IND,Indiana Pacers,21,101.3,False
+343,2002,IND,Indiana Pacers,34,84.7,False
+344,2001,IND,Indiana Pacers,40,119.0,False
+345,2000,IND,Indiana Pacers,41,92.0,False
+346,1999,IND,Indiana Pacers,26,114.4,False
+347,1998,IND,Indiana Pacers,17,86.7,False
+348,1997,IND,Indiana Pacers,24,84.9,False
+349,1996,IND,Indiana Pacers,43,113.7,False
+350,1995,IND,Indiana Pacers,30,83.2,False
+351,1994,IND,Indiana Pacers,30,82.6,False
+352,1993,IND,Indiana Pacers,35,112.8,False
+353,1992,IND,Indiana Pacers,41,108.2,True
+354,1991,IND,Indiana Pacers,42,116.4,False
+355,1990,IND,Indiana Pacers,41,118.6,True
+356,1989,IND,Indiana Pacers,40,98.3,True
+357,1988,IND,Indiana Pacers,54,97.0,True
+358,1987,IND,Indiana Pacers,44,88.4,True
+359,1986,IND,Indiana Pacers,41,83.1,True
+360,1985,IND,Indiana Pacers,56,115.6,True
+361,1984,IND,Indiana Pacers,60,83.3,True
+362,1983,IND,Indiana Pacers,56,111.8,False
+363,1982,IND,Indiana Pacers,62,102.7,True
+364,1981,IND,Indiana Pacers,47,83.9,False
+365,1980,IND,Indiana Pacers,38,96.7,False
+366,1979,IND,Indiana Pacers,45,93.0,True
+367,1978,IND,Indiana Pacers,44,102.5,False
+368,1977,IND,Indiana Pacers,51,100.2,False
+369,1976,IND,Indiana Pacers,46,100.7,True
+370,1975,IND,Indiana Pacers,45,111.8,False
+371,1974,IND,Indiana Pacers,39,103.5,True
+372,1973,IND,Indiana Pacers,38,85.3,True
+373,1972,IND,Indiana Pacers,33,115.1,False
+374,1971,IND,Indiana Pacers,37,119.0,False
+375,1970,IND,Indiana Pacers,26,103.9,False
+376,1969,IND,Indiana Pacers,25,87.8,True
+377,1968,IND,Indiana Pacers,34,117.8,False
+378,1967,IND,Indiana Pacers,40,96.5,True
+379,2019,SAC,Sacramento Kings,41,83.3,False
+380,2018,SAC,Sacramento Kings,43,101.9,False
+381,2017,SAC,Sacramento Kings,55,89.4,True
+382,2016,SAC,Sacramento Kings,50,100.4,False
+383,2015,SAC,Sacramento Kings,49,102.5,False
+384,2014,SAC,Sacramento Kings,53,86.7,True
+385,2013,SAC,Sacramento Kings,54,94.0,False
+386,2012,SAC,Sacramento Kings,54,83.9,True
+387,2011,SAC,Sacramento Kings,44,104.5,True
+388,2010,SAC,Sacramento Kings,58,111.9,True
+389,2009,SAC,Sacramento Kings,57,99.8,True
+390,2008,SAC,Sacramento Kings,65,98.9,False
+391,2007,SAC,Sacramento Kings,44,88.2,False
+392,2006,SAC,Sacramento Kings,49,89.3,True
+393,2005,SAC,Sacramento Kings,38,121.7,True
+394,2004,SAC,Sacramento Kings,32,84.4,True
+395,2003,SAC,Sacramento Kings,27,86.9,True
+396,2002,SAC,Sacramento Kings,23,120.1,False
+397,2001,SAC,Sacramento Kings,21,96.3,True
+398,2000,SAC,Sacramento Kings,27,88.7,False
+399,1999,SAC,Sacramento Kings,38,118.2,True
+400,1998,SAC,Sacramento Kings,23,86.2,True
+401,1997,SAC,Sacramento Kings,55,110.8,False
+402,1996,SAC,Sacramento Kings,48,83.8,True
+403,1995,SAC,Sacramento Kings,43,103.1,True
+404,1994,SAC,Sacramento Kings,43,113.2,False
+405,1993,SAC,Sacramento Kings,54,87.6,True
+406,1992,SAC,Sacramento Kings,57,124.4,True
+407,1991,SAC,Sacramento Kings,53,122.7,True
+408,1990,SAC,Sacramento Kings,57,90.5,True
+409,1989,SAC,Sacramento Kings,59,115.2,True
+410,1988,SAC,Sacramento Kings,55,103.2,False
+411,1987,SAC,Sacramento Kings,58,105.3,False
+412,1986,SAC,Sacramento Kings,53,86.4,True
+413,1985,SAC,Sacramento Kings,45,94.7,True
+414,1984,SAC,Kansas City Kings,51,87.0,False
+415,1983,SAC,Kansas City Kings,44,108.4,False
+416,1982,SAC,Kansas City Kings,37,120.8,True
+417,1981,SAC,Kansas City Kings,52,83.9,True
+418,1980,SAC,Kansas City Kings,42,110.1,True
+419,1979,SAC,Kansas City Kings,35,118.4,False
+420,1978,SAC,Kansas City Kings,34,107.6,False
+421,1977,SAC,Kansas City Kings,51,88.2,False
+422,1976,SAC,Kansas City Kings,42,110.4,False
+423,1975,SAC,Kansas City Kings,51,87.4,False
+424,1974,SAC,Kansas City-Omaha Kings,38,104.0,False
+425,1973,SAC,Kansas City-Omaha Kings,49,91.8,True
+426,1972,SAC,Kansas City-Omaha Kings,46,87.2,False
+427,1971,SAC,Cincinnati Royals,52,89.4,True
+428,1970,SAC,Cincinnati Royals,49,120.1,False
+429,1969,SAC,Cincinnati Royals,46,102.9,True
+430,1968,SAC,Cincinnati Royals,41,110.8,True
+431,1967,SAC,Cincinnati Royals,43,101.4,False
+432,1966,SAC,Cincinnati Royals,42,94.5,False
+433,1965,SAC,Cincinnati Royals,35,122.7,True
+434,1964,SAC,Cincinnati Royals,32,105.1,False
+435,1963,SAC,Cincinnati Royals,25,105.3,False
+436,1962,SAC,Cincinnati Royals,38,116.3,True
+437,1961,SAC,Cincinnati Royals,37,108.5,True
+438,1960,SAC,Cincinnati Royals,46,112.7,False
+439,1959,SAC,Cincinnati Royals,56,111.0,True
+440,1958,SAC,Cincinnati Royals,53,98.6,True
+441,1957,SAC,Cincinnati Royals,39,93.6,False
+442,1956,SAC,Rochester Royals,41,88.2,True
+443,1955,SAC,Rochester Royals,41,114.1,False
+444,1954,SAC,Rochester Royals,43,104.8,False
+445,1953,SAC,Rochester Royals,28,105.8,False
+446,1952,SAC,Rochester Royals,26,91.7,False
+447,1951,SAC,Rochester Royals,25,97.4,False
+448,1950,SAC,Rochester Royals,27,90.9,True
+449,1949,SAC,Rochester Royals,17,108.6,True
+450,1948,SAC,Rochester Royals,15,104.8,False
+451,2019,HOU,Houston Rockets,28,121.6,True
+452,2018,HOU,Houston Rockets,29,93.1,True
+453,2017,HOU,Houston Rockets,17,109.3,True
+454,2016,HOU,Houston Rockets,27,123.4,True
+455,2015,HOU,Houston Rockets,41,115.9,True
+456,2014,HOU,Houston Rockets,26,90.5,True
+457,2013,HOU,Houston Rockets,28,96.9,False
+458,2012,HOU,Houston Rockets,37,107.4,False
+459,2011,HOU,Houston Rockets,32,100.0,True
+460,2010,HOU,Houston Rockets,39,93.3,False
+461,2009,HOU,Houston Rockets,40,114.6,True
+462,2008,HOU,Houston Rockets,29,112.6,True
+463,2007,HOU,Houston Rockets,27,84.3,False
+464,2006,HOU,Houston Rockets,30,102.9,True
+465,2005,HOU,Houston Rockets,48,98.0,True
+466,2004,HOU,Houston Rockets,31,101.2,True
+467,2003,HOU,Houston Rockets,37,94.3,True
+468,2002,HOU,Houston Rockets,39,122.9,False
+469,2001,HOU,Houston Rockets,54,90.8,False
+470,2000,HOU,Houston Rockets,37,84.8,True
+471,1999,HOU,Houston Rockets,48,115.0,True
+472,1998,HOU,Houston Rockets,19,84.1,True
+473,1997,HOU,Houston Rockets,41,82.6,True
+474,1996,HOU,Houston Rockets,25,89.5,True
+475,1995,HOU,Houston Rockets,34,100.5,True
+476,1994,HOU,Houston Rockets,35,122.4,True
+477,1993,HOU,Houston Rockets,24,108.0,False
+478,1992,HOU,Houston Rockets,27,97.3,True
+479,1991,HOU,Houston Rockets,40,88.1,False
+480,1990,HOU,Houston Rockets,30,116.9,True
+481,1989,HOU,Houston Rockets,41,114.5,True
+482,1988,HOU,Houston Rockets,37,116.6,False
+483,1987,HOU,Houston Rockets,36,110.8,False
+484,1986,HOU,Houston Rockets,40,112.8,True
+485,1985,HOU,Houston Rockets,31,93.1,False
+486,1984,HOU,Houston Rockets,34,124.9,False
+487,1983,HOU,Houston Rockets,53,122.4,False
+488,1982,HOU,Houston Rockets,68,83.2,True
+489,1981,HOU,Houston Rockets,36,105.0,True
+490,1980,HOU,Houston Rockets,42,90.9,True
+491,1979,HOU,Houston Rockets,41,98.4,False
+492,1978,HOU,Houston Rockets,35,83.6,False
+493,1977,HOU,Houston Rockets,54,95.7,True
+494,1976,HOU,Houston Rockets,33,94.0,True
+495,1975,HOU,Houston Rockets,42,114.1,True
+496,1974,HOU,Houston Rockets,41,103.8,True
+497,1973,HOU,Houston Rockets,50,111.0,True
+498,1972,HOU,Houston Rockets,49,99.3,False
+499,1971,HOU,Houston Rockets,48,109.4,False
+500,1970,HOU,San Diego Rockets,42,83.3,True
+501,1969,HOU,San Diego Rockets,55,116.7,False
+502,1968,HOU,San Diego Rockets,45,102.8,True
+503,1967,HOU,San Diego Rockets,67,82.6,False
+504,2019,SAS,San Antonio Spurs,39,87.4,False
+505,2018,SAS,San Antonio Spurs,34,106.2,False
+506,2017,SAS,San Antonio Spurs,35,111.3,False
+507,2016,SAS,San Antonio Spurs,21,86.1,True
+508,2015,SAS,San Antonio Spurs,15,96.9,False
+509,2014,SAS,San Antonio Spurs,27,121.2,False
+510,2013,SAS,San Antonio Spurs,20,106.6,True
+511,2012,SAS,San Antonio Spurs,24,109.7,True
+512,2011,SAS,San Antonio Spurs,16,109.4,False
+513,2010,SAS,San Antonio Spurs,21,117.5,True
+514,2009,SAS,San Antonio Spurs,32,115.0,False
+515,2008,SAS,San Antonio Spurs,28,113.0,True
+516,2007,SAS,San Antonio Spurs,26,109.5,False
+517,2006,SAS,San Antonio Spurs,24,98.0,True
+518,2005,SAS,San Antonio Spurs,19,121.1,True
+519,2004,SAS,San Antonio Spurs,23,90.0,True
+520,2003,SAS,San Antonio Spurs,25,97.8,True
+521,2002,SAS,San Antonio Spurs,22,83.1,False
+522,2001,SAS,San Antonio Spurs,24,118.8,False
+523,2000,SAS,San Antonio Spurs,24,120.0,True
+524,1999,SAS,San Antonio Spurs,29,102.7,True
+525,1998,SAS,San Antonio Spurs,13,111.5,False
+526,1997,SAS,San Antonio Spurs,26,83.1,True
+527,1996,SAS,San Antonio Spurs,62,112.5,False
+528,1995,SAS,San Antonio Spurs,23,99.7,True
+529,1994,SAS,San Antonio Spurs,20,83.1,True
+530,1993,SAS,San Antonio Spurs,27,121.6,True
+531,1992,SAS,San Antonio Spurs,33,105.6,True
+532,1991,SAS,San Antonio Spurs,35,84.5,False
+533,1990,SAS,San Antonio Spurs,27,108.7,True
+534,1989,SAS,San Antonio Spurs,26,111.4,False
+535,1988,SAS,San Antonio Spurs,61,99.3,False
+536,1987,SAS,San Antonio Spurs,51,83.4,True
+537,1986,SAS,San Antonio Spurs,54,103.9,True
+538,1985,SAS,San Antonio Spurs,47,95.8,False
+539,1984,SAS,San Antonio Spurs,41,84.0,False
+540,1983,SAS,San Antonio Spurs,45,121.3,True
+541,1982,SAS,San Antonio Spurs,29,100.9,False
+542,1981,SAS,San Antonio Spurs,34,120.3,True
+543,1980,SAS,San Antonio Spurs,30,116.0,False
+544,1979,SAS,San Antonio Spurs,41,99.1,True
+545,1978,SAS,San Antonio Spurs,34,97.5,False
+546,1977,SAS,San Antonio Spurs,30,117.8,True
+547,1976,SAS,San Antonio Spurs,38,107.8,False
+548,1975,SAS,San Antonio Spurs,34,115.2,False
+549,1974,SAS,San Antonio Spurs,33,124.5,True
+550,1973,SAS,San Antonio Spurs,39,97.1,True
+551,1972,SAS,Dallas Chaparrals,56,102.1,False
+552,1971,SAS,Dallas Chaparrals,42,82.4,False
+553,1970,SAS,Texas Chaparrals,54,101.9,False
+554,1969,SAS,Dallas Chaparrals,39,95.1,False
+555,1968,SAS,Dallas Chaparrals,37,111.1,False
+556,1967,SAS,Dallas Chaparrals,32,89.2,True
+557,2019,POR,Portland Trail Blazers,39,121.5,False
+558,2018,POR,Portland Trail Blazers,29,101.0,False
+559,2017,POR,Portland Trail Blazers,33,121.2,False
+560,2016,POR,Portland Trail Blazers,41,107.7,True
+561,2015,POR,Portland Trail Blazers,38,95.3,True
+562,2014,POR,Portland Trail Blazers,31,114.0,False
+563,2013,POR,Portland Trail Blazers,28,119.5,False
+564,2012,POR,Portland Trail Blazers,49,98.7,False
+565,2011,POR,Portland Trail Blazers,38,100.7,True
+566,2010,POR,Portland Trail Blazers,34,86.0,False
+567,2009,POR,Portland Trail Blazers,32,111.3,True
+568,2008,POR,Portland Trail Blazers,28,120.5,True
+569,2007,POR,Portland Trail Blazers,41,108.2,False
+570,2006,POR,Portland Trail Blazers,50,100.2,False
+571,2005,POR,Portland Trail Blazers,61,116.3,True
+572,2004,POR,Portland Trail Blazers,55,88.3,True
+573,2003,POR,Portland Trail Blazers,41,107.9,True
+574,2002,POR,Portland Trail Blazers,32,107.5,True
+575,2001,POR,Portland Trail Blazers,33,85.1,True
+576,2000,POR,Portland Trail Blazers,32,119.3,False
+577,1999,POR,Portland Trail Blazers,23,106.5,True
+578,1998,POR,Portland Trail Blazers,15,120.2,False
+579,1997,POR,Portland Trail Blazers,36,87.3,True
+580,1996,POR,Portland Trail Blazers,33,92.0,True
+581,1995,POR,Portland Trail Blazers,38,89.1,True
+582,1994,POR,Portland Trail Blazers,38,97.6,True
+583,1993,POR,Portland Trail Blazers,35,114.5,True
+584,1992,POR,Portland Trail Blazers,31,113.5,False
+585,1991,POR,Portland Trail Blazers,25,98.0,False
+586,1990,POR,Portland Trail Blazers,19,111.2,False
+587,1989,POR,Portland Trail Blazers,23,120.9,True
+588,1988,POR,Portland Trail Blazers,43,91.6,False
+589,1987,POR,Portland Trail Blazers,29,93.9,False
+590,1986,POR,Portland Trail Blazers,33,115.5,True
+591,1985,POR,Portland Trail Blazers,42,119.5,True
+592,1984,POR,Portland Trail Blazers,40,106.8,False
+593,1983,POR,Portland Trail Blazers,34,85.3,False
+594,1982,POR,Portland Trail Blazers,36,123.0,True
+595,1981,POR,Portland Trail Blazers,40,115.5,True
+596,1980,POR,Portland Trail Blazers,37,112.3,False
+597,1979,POR,Portland Trail Blazers,44,88.7,False
+598,1978,POR,Portland Trail Blazers,37,93.3,False
+599,1977,POR,Portland Trail Blazers,24,116.3,False
+600,1976,POR,Portland Trail Blazers,33,97.2,True
+601,1975,POR,Portland Trail Blazers,45,115.0,True
+602,1974,POR,Portland Trail Blazers,44,104.1,False
+603,1973,POR,Portland Trail Blazers,55,112.7,False
+604,1972,POR,Portland Trail Blazers,61,94.4,True
+605,1971,POR,Portland Trail Blazers,64,111.5,False
+606,1970,POR,Portland Trail Blazers,53,105.5,True
+607,2019,MIL,Milwaukee Bucks,17,118.3,False
+608,2018,MIL,Milwaukee Bucks,22,122.0,True
+609,2017,MIL,Milwaukee Bucks,38,113.1,True
+610,2016,MIL,Milwaukee Bucks,40,107.8,False
+611,2015,MIL,Milwaukee Bucks,49,87.8,False
+612,2014,MIL,Milwaukee Bucks,41,106.0,False
+613,2013,MIL,Milwaukee Bucks,67,107.8,False
+614,2012,MIL,Milwaukee Bucks,44,106.5,True
+615,2011,MIL,Milwaukee Bucks,35,95.6,True
+616,2010,MIL,Milwaukee Bucks,47,120.4,True
+617,2009,MIL,Milwaukee Bucks,36,122.8,True
+618,2008,MIL,Milwaukee Bucks,48,112.8,True
+619,2007,MIL,Milwaukee Bucks,56,99.6,True
+620,2006,MIL,Milwaukee Bucks,54,106.3,True
+621,2005,MIL,Milwaukee Bucks,42,96.4,True
+622,2004,MIL,Milwaukee Bucks,52,112.9,True
+623,2003,MIL,Milwaukee Bucks,41,83.7,False
+624,2002,MIL,Milwaukee Bucks,40,122.8,True
+625,2001,MIL,Milwaukee Bucks,41,82.7,False
+626,2000,MIL,Milwaukee Bucks,30,99.5,True
+627,1999,MIL,Milwaukee Bucks,40,116.2,True
+628,1998,MIL,Milwaukee Bucks,22,107.4,False
+629,1997,MIL,Milwaukee Bucks,46,97.0,True
+630,1996,MIL,Milwaukee Bucks,49,113.7,False
+631,1995,MIL,Milwaukee Bucks,57,118.6,False
+632,1994,MIL,Milwaukee Bucks,48,123.2,False
+633,1993,MIL,Milwaukee Bucks,62,118.3,True
+634,1992,MIL,Milwaukee Bucks,54,110.7,True
+635,1991,MIL,Milwaukee Bucks,51,107.3,False
+636,1990,MIL,Milwaukee Bucks,34,97.8,True
+637,1989,MIL,Milwaukee Bucks,38,93.1,True
+638,1988,MIL,Milwaukee Bucks,33,86.1,True
+639,1987,MIL,Milwaukee Bucks,40,111.5,False
+640,1986,MIL,Milwaukee Bucks,32,112.2,True
+641,1985,MIL,Milwaukee Bucks,25,88.3,False
+642,1984,MIL,Milwaukee Bucks,23,93.4,True
+643,1983,MIL,Milwaukee Bucks,32,106.8,False
+644,1982,MIL,Milwaukee Bucks,31,118.2,False
+645,1981,MIL,Milwaukee Bucks,27,119.1,False
+646,1980,MIL,Milwaukee Bucks,22,100.1,False
+647,1979,MIL,Milwaukee Bucks,33,84.8,False
+648,1978,MIL,Milwaukee Bucks,44,89.1,False
+649,1977,MIL,Milwaukee Bucks,38,88.0,True
+650,1976,MIL,Milwaukee Bucks,52,101.4,False
+651,1975,MIL,Milwaukee Bucks,44,101.2,False
+652,1974,MIL,Milwaukee Bucks,44,107.4,True
+653,1973,MIL,Milwaukee Bucks,23,93.4,False
+654,1972,MIL,Milwaukee Bucks,22,91.4,False
+655,1971,MIL,Milwaukee Bucks,19,82.4,True
+656,1970,MIL,Milwaukee Bucks,16,113.5,True
+657,1969,MIL,Milwaukee Bucks,26,99.1,False
+658,1968,MIL,Milwaukee Bucks,55,108.7,False
+659,2019,DET,Detroit Pistons,46,96.7,True
+660,2018,DET,Detroit Pistons,41,97.9,True
+661,2017,DET,Detroit Pistons,43,86.3,True
+662,2016,DET,Detroit Pistons,45,99.6,True
+663,2015,DET,Detroit Pistons,38,114.7,True
+664,2014,DET,Detroit Pistons,50,98.8,True
+665,2013,DET,Detroit Pistons,53,90.6,True
+666,2012,DET,Detroit Pistons,53,101.6,True
+667,2011,DET,Detroit Pistons,41,89.3,False
+668,2010,DET,Detroit Pistons,52,123.0,True
+669,2009,DET,Detroit Pistons,55,113.2,True
+670,2008,DET,Detroit Pistons,43,94.7,False
+671,2007,DET,Detroit Pistons,23,112.3,True
+672,2006,DET,Detroit Pistons,29,96.5,False
+673,2005,DET,Detroit Pistons,18,101.9,True
+674,2004,DET,Detroit Pistons,28,115.8,False
+675,2003,DET,Detroit Pistons,28,107.5,False
+676,2002,DET,Detroit Pistons,32,111.7,True
+677,2001,DET,Detroit Pistons,32,95.8,False
+678,2000,DET,Detroit Pistons,50,97.9,True
+679,1999,DET,Detroit Pistons,40,101.8,True
+680,1998,DET,Detroit Pistons,21,110.1,True
+681,1997,DET,Detroit Pistons,45,97.7,True
+682,1996,DET,Detroit Pistons,28,93.1,True
+683,1995,DET,Detroit Pistons,36,112.4,False
+684,1994,DET,Detroit Pistons,54,114.6,True
+685,1993,DET,Detroit Pistons,62,85.5,True
+686,1992,DET,Detroit Pistons,42,114.9,False
+687,1991,DET,Detroit Pistons,34,89.3,False
+688,1990,DET,Detroit Pistons,32,111.0,False
+689,1989,DET,Detroit Pistons,23,84.5,True
+690,1988,DET,Detroit Pistons,19,119.1,True
+691,1987,DET,Detroit Pistons,28,88.2,True
+692,1986,DET,Detroit Pistons,30,109.9,False
+693,1985,DET,Detroit Pistons,36,88.6,False
+694,1984,DET,Detroit Pistons,36,108.9,True
+695,1983,DET,Detroit Pistons,33,88.1,True
+696,1982,DET,Detroit Pistons,45,122.4,True
+697,1981,DET,Detroit Pistons,43,108.7,True
+698,1980,DET,Detroit Pistons,61,115.4,True
+699,1979,DET,Detroit Pistons,66,122.0,True
+700,1978,DET,Detroit Pistons,52,107.3,False
+701,1977,DET,Detroit Pistons,44,87.0,True
+702,1976,DET,Detroit Pistons,38,85.5,True
+703,1975,DET,Detroit Pistons,46,88.7,True
+704,1974,DET,Detroit Pistons,42,101.1,False
+705,1973,DET,Detroit Pistons,30,82.3,False
+706,1972,DET,Detroit Pistons,42,113.0,False
+707,1971,DET,Detroit Pistons,56,87.6,True
+708,1970,DET,Detroit Pistons,37,117.9,False
+709,1969,DET,Detroit Pistons,51,117.3,True
+710,1968,DET,Detroit Pistons,50,89.8,False
+711,1967,DET,Detroit Pistons,42,105.9,True
+712,1966,DET,Detroit Pistons,51,99.3,True
+713,1965,DET,Detroit Pistons,58,113.8,True
+714,1964,DET,Detroit Pistons,49,89.3,True
+715,1963,DET,Detroit Pistons,57,120.5,False
+716,1962,DET,Detroit Pistons,46,96.6,True
+717,1961,DET,Detroit Pistons,43,111.5,True
+718,1960,DET,Detroit Pistons,45,104.3,True
+719,1959,DET,Detroit Pistons,45,83.2,True
+720,1958,DET,Detroit Pistons,44,104.2,True
+721,1957,DET,Detroit Pistons,39,114.2,False
+722,1956,DET,Fort Wayne Pistons,38,104.9,True
+723,1955,DET,Fort Wayne Pistons,35,93.9,True
+724,1954,DET,Fort Wayne Pistons,29,108.2,True
+725,1953,DET,Fort Wayne Pistons,32,107.8,True
+726,1952,DET,Fort Wayne Pistons,33,100.1,False
+727,1951,DET,Fort Wayne Pistons,37,118.8,False
+728,1950,DET,Fort Wayne Pistons,36,121.3,False
+729,1949,DET,Fort Wayne Pistons,28,95.5,False
+730,1948,DET,Fort Wayne Pistons,38,86.2,True
+731,2019,PHI,Philadelphia 76ers,30,116.1,True
+732,2018,PHI,Philadelphia 76ers,31,93.5,False
+733,2017,PHI,Philadelphia 76ers,30,91.6,True
+734,2016,PHI,Philadelphia 76ers,54,84.7,False
+735,2015,PHI,Philadelphia 76ers,72,102.1,True
+736,2014,PHI,Philadelphia 76ers,64,120.2,True
+737,2013,PHI,Philadelphia 76ers,63,116.8,False
+738,2012,PHI,Philadelphia 76ers,48,114.4,False
+739,2011,PHI,Philadelphia 76ers,31,94.4,True
+740,2010,PHI,Philadelphia 76ers,41,95.0,True
+741,2009,PHI,Philadelphia 76ers,55,100.6,False
+742,2008,PHI,Philadelphia 76ers,41,120.9,False
+743,2007,PHI,Philadelphia 76ers,42,86.2,True
+744,2006,PHI,Philadelphia 76ers,47,100.6,False
+745,2005,PHI,Philadelphia 76ers,44,109.5,False
+746,2004,PHI,Philadelphia 76ers,39,82.6,False
+747,2003,PHI,Philadelphia 76ers,49,109.6,True
+748,2002,PHI,Philadelphia 76ers,34,120.2,True
+749,2001,PHI,Philadelphia 76ers,39,100.8,True
+750,2000,PHI,Philadelphia 76ers,26,116.4,True
+751,1999,PHI,Philadelphia 76ers,33,118.1,True
+752,1998,PHI,Philadelphia 76ers,22,108.2,False
+753,1997,PHI,Philadelphia 76ers,51,84.0,True
+754,1996,PHI,Philadelphia 76ers,60,94.9,False
+755,1995,PHI,Philadelphia 76ers,64,123.5,False
+756,1994,PHI,Philadelphia 76ers,58,101.6,False
+757,1993,PHI,Philadelphia 76ers,57,112.7,True
+758,1992,PHI,Philadelphia 76ers,56,123.7,False
+759,1991,PHI,Philadelphia 76ers,47,116.1,True
+760,1990,PHI,Philadelphia 76ers,38,113.3,False
+761,1989,PHI,Philadelphia 76ers,29,95.8,True
+762,1988,PHI,Philadelphia 76ers,36,93.8,False
+763,1987,PHI,Philadelphia 76ers,46,102.1,True
+764,1986,PHI,Philadelphia 76ers,37,91.5,False
+765,1985,PHI,Philadelphia 76ers,28,99.5,False
+766,1984,PHI,Philadelphia 76ers,24,83.8,True
+767,1983,PHI,Philadelphia 76ers,30,105.8,False
+768,1982,PHI,Philadelphia 76ers,17,105.8,True
+769,1981,PHI,Philadelphia 76ers,24,106.4,True
+770,1980,PHI,Philadelphia 76ers,20,112.0,False
+771,1979,PHI,Philadelphia 76ers,23,108.9,False
+772,1978,PHI,Philadelphia 76ers,35,94.6,False
+773,1977,PHI,Philadelphia 76ers,27,93.2,False
+774,1976,PHI,Philadelphia 76ers,32,120.9,True
+775,1975,PHI,Philadelphia 76ers,36,112.9,True
+776,1974,PHI,Philadelphia 76ers,48,88.7,False
+777,1973,PHI,Philadelphia 76ers,57,112.2,False
+778,1972,PHI,Philadelphia 76ers,73,83.1,False
+779,1971,PHI,Philadelphia 76ers,52,92.8,False
+780,1970,PHI,Philadelphia 76ers,35,99.2,True
+781,1969,PHI,Philadelphia 76ers,40,85.9,True
+782,1968,PHI,Philadelphia 76ers,27,109.4,True
+783,1967,PHI,Philadelphia 76ers,20,112.2,True
+784,1966,PHI,Philadelphia 76ers,13,104.5,True
+785,1965,PHI,Philadelphia 76ers,25,120.4,True
+786,1964,PHI,Philadelphia 76ers,40,112.9,False
+787,1963,PHI,Philadelphia 76ers,46,87.1,False
+788,1962,PHI,Syracuse Nationals,32,90.5,False
+789,1961,PHI,Syracuse Nationals,39,124.5,True
+790,1960,PHI,Syracuse Nationals,41,84.7,False
+791,1959,PHI,Syracuse Nationals,30,117.6,True
+792,1958,PHI,Syracuse Nationals,37,124.6,False
+793,1957,PHI,Syracuse Nationals,31,121.7,True
+794,1956,PHI,Syracuse Nationals,34,88.7,False
+795,1955,PHI,Syracuse Nationals,37,118.5,True
+796,1954,PHI,Syracuse Nationals,29,97.6,True
+797,1953,PHI,Syracuse Nationals,30,112.7,False
+798,1952,PHI,Syracuse Nationals,24,110.0,True
+799,1951,PHI,Syracuse Nationals,26,98.9,False
+800,1950,PHI,Syracuse Nationals,34,89.7,False
+801,1949,PHI,Syracuse Nationals,13,111.7,True
+802,2019,UTA,Utah Jazz,28,123.4,False
+803,2018,UTA,Utah Jazz,32,87.5,True
+804,2017,UTA,Utah Jazz,34,105.9,False
+805,2016,UTA,Utah Jazz,31,89.9,False
+806,2015,UTA,Utah Jazz,42,108.4,False
+807,2014,UTA,Utah Jazz,44,92.9,True
+808,2013,UTA,Utah Jazz,57,115.3,False
+809,2012,UTA,Utah Jazz,39,100.2,True
+810,2011,UTA,Utah Jazz,30,120.6,False
+811,2010,UTA,Utah Jazz,43,95.3,True
+812,2009,UTA,Utah Jazz,29,93.6,True
+813,2008,UTA,Utah Jazz,34,83.8,False
+814,2007,UTA,Utah Jazz,28,118.3,True
+815,2006,UTA,Utah Jazz,31,82.8,True
+816,2005,UTA,Utah Jazz,41,88.9,True
+817,2004,UTA,Utah Jazz,56,114.7,False
+818,2003,UTA,Utah Jazz,40,119.7,True
+819,2002,UTA,Utah Jazz,35,96.5,False
+820,2001,UTA,Utah Jazz,38,120.9,True
+821,2000,UTA,Utah Jazz,29,86.2,True
+822,1999,UTA,Utah Jazz,27,117.8,True
+823,1998,UTA,Utah Jazz,13,99.2,False
+824,1997,UTA,Utah Jazz,20,105.6,False
+825,1996,UTA,Utah Jazz,18,123.0,True
+826,1995,UTA,Utah Jazz,27,121.1,False
+827,1994,UTA,Utah Jazz,22,103.4,False
+828,1993,UTA,Utah Jazz,29,95.4,True
+829,1992,UTA,Utah Jazz,35,100.8,False
+830,1991,UTA,Utah Jazz,27,104.2,False
+831,1990,UTA,Utah Jazz,28,91.3,True
+832,1989,UTA,Utah Jazz,27,91.6,True
+833,1988,UTA,Utah Jazz,31,92.2,True
+834,1987,UTA,Utah Jazz,35,85.7,False
+835,1986,UTA,Utah Jazz,38,90.6,False
+836,1985,UTA,Utah Jazz,40,105.3,False
+837,1984,UTA,Utah Jazz,41,83.3,False
+838,1983,UTA,Utah Jazz,37,84.8,True
+839,1982,UTA,Utah Jazz,52,104.1,True
+840,1981,UTA,Utah Jazz,57,116.6,False
+841,1980,UTA,Utah Jazz,54,107.0,True
+842,1979,UTA,Utah Jazz,58,98.6,False
+843,1978,UTA,New Orleans Jazz,56,97.2,True
+844,1977,UTA,New Orleans Jazz,43,101.0,False
+845,1976,UTA,New Orleans Jazz,47,104.9,True
+846,1975,UTA,New Orleans Jazz,44,121.2,True
+847,1974,UTA,New Orleans Jazz,59,117.4,False
+848,2019,DEN,Denver Nuggets,27,89.1,False
+849,2018,DEN,Denver Nuggets,28,88.5,False
+850,2017,DEN,Denver Nuggets,36,102.6,False
+851,2016,DEN,Denver Nuggets,42,84.8,False
+852,2015,DEN,Denver Nuggets,49,106.4,False
+853,2014,DEN,Denver Nuggets,52,93.7,False
+854,2013,DEN,Denver Nuggets,46,109.5,True
+855,2012,DEN,Denver Nuggets,25,92.9,False
+856,2011,DEN,Denver Nuggets,28,86.8,True
+857,2010,DEN,Denver Nuggets,32,111.9,True
+858,2009,DEN,Denver Nuggets,29,111.0,False
+859,2008,DEN,Denver Nuggets,28,116.1,False
+860,2007,DEN,Denver Nuggets,32,103.0,False
+861,2006,DEN,Denver Nuggets,37,83.0,True
+862,2005,DEN,Denver Nuggets,38,111.7,False
+863,2004,DEN,Denver Nuggets,33,97.0,False
+864,2003,DEN,Denver Nuggets,39,116.3,False
+865,2002,DEN,Denver Nuggets,65,124.0,True
+866,2001,DEN,Denver Nuggets,55,100.4,True
+867,2000,DEN,Denver Nuggets,42,91.7,True
+868,1999,DEN,Denver Nuggets,47,93.8,True
+869,1998,DEN,Denver Nuggets,36,86.5,False
+870,1997,DEN,Denver Nuggets,71,104.2,False
+871,1996,DEN,Denver Nuggets,61,94.1,True
+872,1995,DEN,Denver Nuggets,47,95.7,True
+873,1994,DEN,Denver Nuggets,41,108.8,True
+874,1993,DEN,Denver Nuggets,40,100.7,True
+875,1992,DEN,Denver Nuggets,46,87.2,False
+876,1991,DEN,Denver Nuggets,58,85.1,True
+877,1990,DEN,Denver Nuggets,62,115.7,False
+878,1989,DEN,Denver Nuggets,39,116.5,True
+879,1988,DEN,Denver Nuggets,38,108.1,False
+880,1987,DEN,Denver Nuggets,28,84.3,True
+881,1986,DEN,Denver Nuggets,45,85.5,False
+882,1985,DEN,Denver Nuggets,35,121.9,False
+883,1984,DEN,Denver Nuggets,30,103.4,True
+884,1983,DEN,Denver Nuggets,44,90.0,False
+885,1982,DEN,Denver Nuggets,37,119.3,False
+886,1981,DEN,Denver Nuggets,36,87.2,False
+887,1980,DEN,Denver Nuggets,45,117.8,True
+888,1979,DEN,Denver Nuggets,52,103.0,True
+889,1978,DEN,Denver Nuggets,35,118.0,False
+890,1977,DEN,Denver Nuggets,34,118.8,True
+891,1976,DEN,Denver Nuggets,32,114.7,False
+892,1975,DEN,Denver Nuggets,24,92.0,False
+893,1974,DEN,Denver Nuggets,19,83.6,False
+894,1973,DEN,Denver Rockets,47,123.2,True
+895,1972,DEN,Denver Rockets,37,84.8,True
+896,1971,DEN,Denver Rockets,50,91.8,True
+897,1970,DEN,Denver Rockets,54,112.6,True
+898,1969,DEN,Denver Rockets,33,83.3,False
+899,1968,DEN,Denver Rockets,34,121.8,True
+900,1967,DEN,Denver Rockets,33,111.6,False
+901,2019,ATL,Atlanta Hawks,47,122.1,False
+902,2018,ATL,Atlanta Hawks,53,87.6,True
+903,2017,ATL,Atlanta Hawks,58,89.7,False
+904,2016,ATL,Atlanta Hawks,39,120.4,False
+905,2015,ATL,Atlanta Hawks,34,92.9,False
+906,2014,ATL,Atlanta Hawks,22,110.8,False
+907,2013,ATL,Atlanta Hawks,44,94.7,True
+908,2012,ATL,Atlanta Hawks,38,82.4,True
+909,2011,ATL,Atlanta Hawks,26,98.0,True
+910,2010,ATL,Atlanta Hawks,38,112.9,False
+911,2009,ATL,Atlanta Hawks,29,95.6,True
+912,2008,ATL,Atlanta Hawks,35,102.2,False
+913,2007,ATL,Atlanta Hawks,45,97.2,False
+914,2006,ATL,Atlanta Hawks,52,93.5,True
+915,2005,ATL,Atlanta Hawks,56,93.9,False
+916,2004,ATL,Atlanta Hawks,69,99.7,True
+917,2003,ATL,Atlanta Hawks,54,111.4,False
+918,2002,ATL,Atlanta Hawks,47,103.8,False
+919,2001,ATL,Atlanta Hawks,49,107.2,True
+920,2000,ATL,Atlanta Hawks,57,116.7,True
+921,1999,ATL,Atlanta Hawks,54,97.8,False
+922,1998,ATL,Atlanta Hawks,19,101.0,True
+923,1997,ATL,Atlanta Hawks,32,124.7,True
+924,1996,ATL,Atlanta Hawks,26,96.1,True
+925,1995,ATL,Atlanta Hawks,36,83.8,False
+926,1994,ATL,Atlanta Hawks,40,119.0,False
+927,1993,ATL,Atlanta Hawks,25,90.9,False
+928,1992,ATL,Atlanta Hawks,39,102.4,True
+929,1991,ATL,Atlanta Hawks,44,89.5,True
+930,1990,ATL,Atlanta Hawks,39,112.1,True
+931,1989,ATL,Atlanta Hawks,41,102.0,False
+932,1988,ATL,Atlanta Hawks,30,92.9,False
+933,1987,ATL,Atlanta Hawks,32,98.5,False
+934,1986,ATL,Atlanta Hawks,25,98.8,True
+935,1985,ATL,Atlanta Hawks,32,121.9,True
+936,1984,ATL,Atlanta Hawks,48,106.8,True
+937,1983,ATL,Atlanta Hawks,42,103.7,False
+938,1982,ATL,Atlanta Hawks,39,101.7,True
+939,1981,ATL,Atlanta Hawks,40,85.2,True
+940,1980,ATL,Atlanta Hawks,51,107.0,False
+941,1979,ATL,Atlanta Hawks,32,109.0,False
+942,1978,ATL,Atlanta Hawks,36,82.3,True
+943,1977,ATL,Atlanta Hawks,41,87.6,True
+944,1976,ATL,Atlanta Hawks,51,85.9,True
+945,1975,ATL,Atlanta Hawks,53,122.8,False
+946,1974,ATL,Atlanta Hawks,51,119.8,False
+947,1973,ATL,Atlanta Hawks,47,111.2,True
+948,1972,ATL,Atlanta Hawks,36,122.0,False
+949,1971,ATL,Atlanta Hawks,46,115.3,True
+950,1970,ATL,Atlanta Hawks,46,97.2,True
+951,1969,ATL,Atlanta Hawks,34,103.3,True
+952,1968,ATL,Atlanta Hawks,34,119.8,True
+953,1967,ATL,St. Louis Hawks,26,89.9,True
+954,1966,ATL,St. Louis Hawks,42,103.5,False
+955,1965,ATL,St. Louis Hawks,44,90.1,False
+956,1964,ATL,St. Louis Hawks,35,124.8,True
+957,1963,ATL,St. Louis Hawks,34,88.5,False
+958,1962,ATL,St. Louis Hawks,32,87.2,False
+959,1961,ATL,St. Louis Hawks,51,119.5,False
+960,1960,ATL,St. Louis Hawks,28,121.6,True
+961,1959,ATL,St. Louis Hawks,29,123.5,False
+962,1958,ATL,St. Louis Hawks,23,90.0,False
+963,1957,ATL,St. Louis Hawks,31,120.4,False
+964,1956,ATL,St. Louis Hawks,38,89.4,False
+965,1955,ATL,St. Louis Hawks,39,124.4,True
+966,1954,ATL,Milwaukee Hawks,46,95.4,False
+967,1953,ATL,Milwaukee Hawks,51,115.0,False
+968,1952,ATL,Milwaukee Hawks,44,117.4,False
+969,1951,ATL,Milwaukee Hawks,49,107.3,False
+970,1950,ATL,Tri-Cities Blackhawks,43,100.7,True
+971,1949,ATL,Tri-Cities Blackhawks,35,114.8,True
+972,2019,CLE,Cleveland Cavaliers,46,99.4,False
+973,2018,CLE,Cleveland Cavaliers,63,112.4,True
+974,2017,CLE,Cleveland Cavaliers,32,117.1,True
+975,2016,CLE,Cleveland Cavaliers,31,104.7,False
+976,2015,CLE,Cleveland Cavaliers,25,115.8,False
+977,2014,CLE,Cleveland Cavaliers,29,83.5,False
+978,2013,CLE,Cleveland Cavaliers,49,100.8,False
+979,2012,CLE,Cleveland Cavaliers,58,119.0,True
+980,2011,CLE,Cleveland Cavaliers,45,110.6,False
+981,2010,CLE,Cleveland Cavaliers,63,109.4,False
+982,2009,CLE,Cleveland Cavaliers,21,91.5,True
+983,2008,CLE,Cleveland Cavaliers,16,113.5,True
+984,2007,CLE,Cleveland Cavaliers,37,106.7,True
+985,2006,CLE,Cleveland Cavaliers,32,120.3,False
+986,2005,CLE,Cleveland Cavaliers,32,108.1,False
+987,2004,CLE,Cleveland Cavaliers,40,89.1,False
+988,2003,CLE,Cleveland Cavaliers,47,95.0,True
+989,2002,CLE,Cleveland Cavaliers,65,83.3,False
+990,2001,CLE,Cleveland Cavaliers,53,95.9,False
+991,2000,CLE,Cleveland Cavaliers,52,118.9,False
+992,1999,CLE,Cleveland Cavaliers,50,115.9,True
+993,1998,CLE,Cleveland Cavaliers,28,117.9,True
+994,1997,CLE,Cleveland Cavaliers,35,104.4,False
+995,1996,CLE,Cleveland Cavaliers,40,104.3,True
+996,1995,CLE,Cleveland Cavaliers,35,101.5,True
+997,1994,CLE,Cleveland Cavaliers,39,116.4,True
+998,1993,CLE,Cleveland Cavaliers,35,117.3,True
+999,1992,CLE,Cleveland Cavaliers,28,107.2,True
+1000,1991,CLE,Cleveland Cavaliers,25,116.2,True
+1001,1990,CLE,Cleveland Cavaliers,49,114.9,False
+1002,1989,CLE,Cleveland Cavaliers,40,112.8,True
+1003,1988,CLE,Cleveland Cavaliers,25,123.3,True
+1004,1987,CLE,Cleveland Cavaliers,40,116.1,False
+1005,1986,CLE,Cleveland Cavaliers,51,82.4,True
+1006,1985,CLE,Cleveland Cavaliers,53,110.1,True
+1007,1984,CLE,Cleveland Cavaliers,46,98.1,False
+1008,1983,CLE,Cleveland Cavaliers,54,98.6,True
+1009,1982,CLE,Cleveland Cavaliers,59,102.0,False
+1010,1981,CLE,Cleveland Cavaliers,67,104.0,False
+1011,1980,CLE,Cleveland Cavaliers,54,112.0,False
+1012,1979,CLE,Cleveland Cavaliers,45,87.0,True
+1013,1978,CLE,Cleveland Cavaliers,52,92.0,False
+1014,1977,CLE,Cleveland Cavaliers,39,94.0,True
+1015,1976,CLE,Cleveland Cavaliers,39,93.7,False
+1016,1975,CLE,Cleveland Cavaliers,33,116.2,True
+1017,1974,CLE,Cleveland Cavaliers,42,124.2,False
+1018,1973,CLE,Cleveland Cavaliers,53,84.0,True
+1019,1972,CLE,Cleveland Cavaliers,50,103.0,False
+1020,1971,CLE,Cleveland Cavaliers,59,101.7,True
+1021,1970,CLE,Cleveland Cavaliers,67,98.1,False
+1022,2019,NYK,New York Knicks,45,103.2,False
+1023,2018,NYK,New York Knicks,65,109.7,False
+1024,2017,NYK,New York Knicks,53,82.8,False
+1025,2016,NYK,New York Knicks,51,121.2,True
+1026,2015,NYK,New York Knicks,50,119.3,True
+1027,2014,NYK,New York Knicks,65,122.4,False
+1028,2013,NYK,New York Knicks,45,92.1,False
+1029,2012,NYK,New York Knicks,28,116.9,False
+1030,2011,NYK,New York Knicks,30,83.2,True
+1031,2010,NYK,New York Knicks,40,122.4,True
+1032,2009,NYK,New York Knicks,53,85.2,True
+1033,2008,NYK,New York Knicks,50,115.4,False
+1034,2007,NYK,New York Knicks,59,88.9,False
+1035,2006,NYK,New York Knicks,49,92.5,False
+1036,2005,NYK,New York Knicks,59,85.6,False
+1037,2004,NYK,New York Knicks,49,88.9,True
+1038,2003,NYK,New York Knicks,43,99.1,False
+1039,2002,NYK,New York Knicks,45,87.1,True
+1040,2001,NYK,New York Knicks,52,89.9,False
+1041,2000,NYK,New York Knicks,34,116.0,False
+1042,1999,NYK,New York Knicks,32,107.6,False
+1043,1998,NYK,New York Knicks,23,95.9,True
+1044,1997,NYK,New York Knicks,39,115.9,True
+1045,1996,NYK,New York Knicks,25,112.9,False
+1046,1995,NYK,New York Knicks,35,124.6,False
+1047,1994,NYK,New York Knicks,27,115.5,True
+1048,1993,NYK,New York Knicks,25,116.7,True
+1049,1992,NYK,New York Knicks,22,123.2,True
+1050,1991,NYK,New York Knicks,31,123.3,False
+1051,1990,NYK,New York Knicks,43,101.5,False
+1052,1989,NYK,New York Knicks,37,85.2,False
+1053,1988,NYK,New York Knicks,30,124.5,False
+1054,1987,NYK,New York Knicks,44,98.7,False
+1055,1986,NYK,New York Knicks,58,101.7,False
+1056,1985,NYK,New York Knicks,59,87.3,False
+1057,1984,NYK,New York Knicks,58,84.8,True
+1058,1983,NYK,New York Knicks,35,98.2,False
+1059,1982,NYK,New York Knicks,38,120.4,False
+1060,1981,NYK,New York Knicks,49,97.9,False
+1061,1980,NYK,New York Knicks,32,111.8,True
+1062,1979,NYK,New York Knicks,43,99.8,False
+1063,1978,NYK,New York Knicks,51,108.5,False
+1064,1977,NYK,New York Knicks,39,87.8,False
+1065,1976,NYK,New York Knicks,42,101.4,False
+1066,1975,NYK,New York Knicks,44,83.1,False
+1067,1974,NYK,New York Knicks,42,86.4,True
+1068,1973,NYK,New York Knicks,33,109.5,True
+1069,1972,NYK,New York Knicks,25,120.1,True
+1070,1971,NYK,New York Knicks,34,119.1,False
+1071,1970,NYK,New York Knicks,30,89.0,False
+1072,1969,NYK,New York Knicks,22,101.5,True
+1073,1968,NYK,New York Knicks,28,98.6,True
+1074,1967,NYK,New York Knicks,39,93.2,False
+1075,1966,NYK,New York Knicks,45,97.4,True
+1076,1965,NYK,New York Knicks,50,95.0,False
+1077,1964,NYK,New York Knicks,49,82.6,False
+1078,1963,NYK,New York Knicks,58,99.7,False
+1079,1962,NYK,New York Knicks,59,86.7,True
+1080,1961,NYK,New York Knicks,51,90.9,False
+1081,1960,NYK,New York Knicks,58,111.1,True
+1082,1959,NYK,New York Knicks,48,102.8,True
+1083,1958,NYK,New York Knicks,32,124.6,True
+1084,1957,NYK,New York Knicks,37,111.8,True
+1085,1956,NYK,New York Knicks,36,107.5,False
+1086,1955,NYK,New York Knicks,37,85.2,True
+1087,1954,NYK,New York Knicks,34,94.6,False
+1088,1953,NYK,New York Knicks,28,116.8,False
+1089,1952,NYK,New York Knicks,23,86.0,False
+1090,1951,NYK,New York Knicks,29,119.0,True
+1091,1950,NYK,New York Knicks,30,82.8,True
+1092,1949,NYK,New York Knicks,28,92.4,False
+1093,1948,NYK,New York Knicks,28,119.3,False
+1094,1947,NYK,New York Knicks,22,124.4,False
+1095,1946,NYK,New York Knicks,27,124.6,True
+1096,2019,DAL,Dallas Mavericks,32,98.8,True
+1097,2018,DAL,Dallas Mavericks,49,104.8,False
+1098,2017,DAL,Dallas Mavericks,58,101.3,True
+1099,2016,DAL,Dallas Mavericks,49,115.9,False
+1100,2015,DAL,Dallas Mavericks,40,94.4,True
+1101,2014,DAL,Dallas Mavericks,32,113.6,True
+1102,2013,DAL,Dallas Mavericks,33,123.1,False
+1103,2012,DAL,Dallas Mavericks,41,100.2,False
+1104,2011,DAL,Dallas Mavericks,30,85.1,False
+1105,2010,DAL,Dallas Mavericks,25,95.3,True
+1106,2009,DAL,Dallas Mavericks,27,104.7,False
+1107,2008,DAL,Dallas Mavericks,32,98.4,False
+1108,2007,DAL,Dallas Mavericks,31,112.3,True
+1109,2006,DAL,Dallas Mavericks,15,120.0,True
+1110,2005,DAL,Dallas Mavericks,22,119.7,True
+1111,2004,DAL,Dallas Mavericks,24,102.0,True
+1112,2003,DAL,Dallas Mavericks,30,121.0,False
+1113,2002,DAL,Dallas Mavericks,22,109.0,True
+1114,2001,DAL,Dallas Mavericks,25,100.4,True
+1115,2000,DAL,Dallas Mavericks,29,100.9,False
+1116,1999,DAL,Dallas Mavericks,42,115.1,False
+1117,1998,DAL,Dallas Mavericks,31,109.1,True
+1118,1997,DAL,Dallas Mavericks,62,95.9,True
+1119,1996,DAL,Dallas Mavericks,58,107.7,False
+1120,1995,DAL,Dallas Mavericks,56,111.4,False
+1121,1994,DAL,Dallas Mavericks,46,121.8,True
+1122,1993,DAL,Dallas Mavericks,69,91.2,True
+1123,1992,DAL,Dallas Mavericks,71,87.2,True
+1124,1991,DAL,Dallas Mavericks,60,105.9,True
+1125,1990,DAL,Dallas Mavericks,54,116.8,True
+1126,1989,DAL,Dallas Mavericks,35,98.3,True
+1127,1988,DAL,Dallas Mavericks,44,115.3,True
+1128,1987,DAL,Dallas Mavericks,29,85.0,True
+1129,1986,DAL,Dallas Mavericks,27,88.4,False
+1130,1985,DAL,Dallas Mavericks,38,122.9,True
+1131,1984,DAL,Dallas Mavericks,38,118.0,False
+1132,1983,DAL,Dallas Mavericks,39,88.5,True
+1133,1982,DAL,Dallas Mavericks,44,86.6,False
+1134,1981,DAL,Dallas Mavericks,54,93.0,True
+1135,1980,DAL,Dallas Mavericks,67,124.0,True
+1136,2019,LAC,Los Angeles Clippers,23,100.0,True
+1137,2018,LAC,Los Angeles Clippers,34,96.9,True
+1138,2017,LAC,Los Angeles Clippers,40,84.2,False
+1139,2016,LAC,Los Angeles Clippers,31,104.4,True
+1140,2015,LAC,Los Angeles Clippers,29,82.9,True
+1141,2014,LAC,Los Angeles Clippers,26,93.3,True
+1142,2013,LAC,Los Angeles Clippers,25,109.4,False
+1143,2012,LAC,Los Angeles Clippers,26,97.8,False
+1144,2011,LAC,Los Angeles Clippers,26,96.3,False
+1145,2010,LAC,Los Angeles Clippers,50,95.6,False
+1146,2009,LAC,Los Angeles Clippers,53,90.2,False
+1147,2008,LAC,Los Angeles Clippers,63,119.4,False
+1148,2007,LAC,Los Angeles Clippers,59,114.7,True
+1149,2006,LAC,Los Angeles Clippers,42,83.7,True
+1150,2005,LAC,Los Angeles Clippers,35,84.0,True
+1151,2004,LAC,Los Angeles Clippers,45,89.9,True
+1152,2003,LAC,Los Angeles Clippers,54,107.0,True
+1153,2002,LAC,Los Angeles Clippers,55,94.6,False
+1154,2001,LAC,Los Angeles Clippers,43,92.3,True
+1155,2000,LAC,Los Angeles Clippers,51,111.1,False
+1156,1999,LAC,Los Angeles Clippers,67,112.5,False
+1157,1998,LAC,Los Angeles Clippers,41,115.4,True
+1158,1997,LAC,Los Angeles Clippers,65,84.2,True
+1159,1996,LAC,Los Angeles Clippers,46,101.2,False
+1160,1995,LAC,Los Angeles Clippers,53,86.9,False
+1161,1994,LAC,Los Angeles Clippers,65,103.2,True
+1162,1993,LAC,Los Angeles Clippers,55,116.9,False
+1163,1992,LAC,Los Angeles Clippers,41,107.8,False
+1164,1991,LAC,Los Angeles Clippers,37,86.7,True
+1165,1990,LAC,Los Angeles Clippers,51,119.0,False
+1166,1989,LAC,Los Angeles Clippers,52,94.8,True
+1167,1988,LAC,Los Angeles Clippers,61,82.8,True
+1168,1987,LAC,Los Angeles Clippers,65,92.3,True
+1169,1986,LAC,Los Angeles Clippers,70,94.9,True
+1170,1985,LAC,Los Angeles Clippers,50,121.0,True
+1171,1984,LAC,Los Angeles Clippers,51,94.3,True
+1172,1983,LAC,San Diego Clippers,52,101.6,True
+1173,1982,LAC,San Diego Clippers,57,96.4,False
+1174,1981,LAC,San Diego Clippers,65,96.9,False
+1175,1980,LAC,San Diego Clippers,46,106.7,False
+1176,1979,LAC,San Diego Clippers,47,118.1,True
+1177,1978,LAC,San Diego Clippers,39,111.5,False
+1178,1977,LAC,Buffalo Braves,55,100.1,False
+1179,1976,LAC,Buffalo Braves,52,83.6,False
+1180,1975,LAC,Buffalo Braves,36,105.4,True
+1181,1974,LAC,Buffalo Braves,33,121.6,False
+1182,1973,LAC,Buffalo Braves,40,94.8,False
+1183,1972,LAC,Buffalo Braves,61,104.5,False
+1184,1971,LAC,Buffalo Braves,60,85.5,True
+1185,1970,LAC,Buffalo Braves,60,91.7,False
+1186,2019,MIA,Miami Heat,29,122.1,True
+1187,2018,MIA,Miami Heat,43,87.1,True
+1188,2017,MIA,Miami Heat,38,102.0,True
+1189,2016,MIA,Miami Heat,41,112.7,False
+1190,2015,MIA,Miami Heat,34,93.3,False
+1191,2014,MIA,Miami Heat,45,98.0,False
+1192,2013,MIA,Miami Heat,28,119.3,True
+1193,2012,MIA,Miami Heat,16,87.6,False
+1194,2011,MIA,Miami Heat,20,84.4,False
+1195,2010,MIA,Miami Heat,24,86.1,False
+1196,2009,MIA,Miami Heat,35,95.4,False
+1197,2008,MIA,Miami Heat,39,89.6,False
+1198,2007,MIA,Miami Heat,67,105.5,True
+1199,2006,MIA,Miami Heat,38,113.9,True
+1200,2005,MIA,Miami Heat,30,122.1,True
+1201,2004,MIA,Miami Heat,23,111.5,False
+1202,2003,MIA,Miami Heat,40,116.9,False
+1203,2002,MIA,Miami Heat,57,93.4,False
+1204,2001,MIA,Miami Heat,46,103.3,False
+1205,2000,MIA,Miami Heat,32,84.5,False
+1206,1999,MIA,Miami Heat,30,114.5,False
+1207,1998,MIA,Miami Heat,17,115.7,False
+1208,1997,MIA,Miami Heat,27,102.8,False
+1209,1996,MIA,Miami Heat,21,111.0,True
+1210,1995,MIA,Miami Heat,40,103.9,True
+1211,1994,MIA,Miami Heat,50,93.3,True
+1212,1993,MIA,Miami Heat,40,94.9,False
+1213,1992,MIA,Miami Heat,46,120.7,True
+1214,1991,MIA,Miami Heat,44,94.6,True
+1215,1990,MIA,Miami Heat,58,124.3,True
+1216,1989,MIA,Miami Heat,64,100.2,False
+1217,1988,MIA,Miami Heat,67,117.3,False
+1218,2019,ORL,Orlando Magic,40,91.9,True
+1219,2018,ORL,Orlando Magic,40,95.0,True
+1220,2017,ORL,Orlando Magic,57,124.9,False
+1221,2016,ORL,Orlando Magic,53,90.4,True
+1222,2015,ORL,Orlando Magic,47,96.7,True
+1223,2014,ORL,Orlando Magic,57,119.2,True
+1224,2013,ORL,Orlando Magic,59,115.3,True
+1225,2012,ORL,Orlando Magic,62,104.7,False
+1226,2011,ORL,Orlando Magic,29,119.6,True
+1227,2010,ORL,Orlando Magic,30,116.9,True
+1228,2009,ORL,Orlando Magic,23,85.7,True
+1229,2008,ORL,Orlando Magic,23,107.3,False
+1230,2007,ORL,Orlando Magic,30,92.4,True
+1231,2006,ORL,Orlando Magic,42,99.7,True
+1232,2005,ORL,Orlando Magic,46,105.8,True
+1233,2004,ORL,Orlando Magic,46,87.6,False
+1234,2003,ORL,Orlando Magic,61,82.4,True
+1235,2002,ORL,Orlando Magic,40,109.9,True
+1236,2001,ORL,Orlando Magic,38,121.5,True
+1237,2000,ORL,Orlando Magic,39,89.1,True
+1238,1999,ORL,Orlando Magic,41,84.0,False
+1239,1998,ORL,Orlando Magic,17,121.9,True
+1240,1997,ORL,Orlando Magic,41,92.4,True
+1241,1996,ORL,Orlando Magic,37,98.1,False
+1242,1995,ORL,Orlando Magic,22,99.0,False
+1243,1994,ORL,Orlando Magic,25,122.9,False
+1244,1993,ORL,Orlando Magic,32,87.6,False
+1245,1992,ORL,Orlando Magic,41,121.1,False
+1246,1991,ORL,Orlando Magic,61,103.0,False
+1247,1990,ORL,Orlando Magic,51,108.8,False
+1248,1989,ORL,Orlando Magic,64,118.2,True
+1249,2019,MIN,Minnesota Timberwolves,45,84.7,False
+1250,2018,MIN,Minnesota Timberwolves,46,98.4,False
+1251,2017,MIN,Minnesota Timberwolves,35,102.6,True
+1252,2016,MIN,Minnesota Timberwolves,51,84.0,False
+1253,2015,MIN,Minnesota Timberwolves,53,117.0,True
+1254,2014,MIN,Minnesota Timberwolves,66,86.0,True
+1255,2013,MIN,Minnesota Timberwolves,42,114.9,False
+1256,2012,MIN,Minnesota Timberwolves,51,108.5,True
+1257,2011,MIN,Minnesota Timberwolves,40,104.7,False
+1258,2010,MIN,Minnesota Timberwolves,65,84.2,False
+1259,2009,MIN,Minnesota Timberwolves,67,111.5,True
+1260,2008,MIN,Minnesota Timberwolves,58,94.4,True
+1261,2007,MIN,Minnesota Timberwolves,60,92.2,True
+1262,2006,MIN,Minnesota Timberwolves,50,91.1,False
+1263,2005,MIN,Minnesota Timberwolves,49,110.1,True
+1264,2004,MIN,Minnesota Timberwolves,38,90.9,False
+1265,2003,MIN,Minnesota Timberwolves,24,104.2,False
+1266,2002,MIN,Minnesota Timberwolves,31,102.9,True
+1267,2001,MIN,Minnesota Timberwolves,32,88.6,False
+1268,2000,MIN,Minnesota Timberwolves,35,88.0,False
+1269,1999,MIN,Minnesota Timberwolves,32,99.9,True
+1270,1998,MIN,Minnesota Timberwolves,25,84.4,True
+1271,1997,MIN,Minnesota Timberwolves,37,113.8,False
+1272,1996,MIN,Minnesota Timberwolves,42,119.3,False
+1273,1995,MIN,Minnesota Timberwolves,56,99.5,False
+1274,1994,MIN,Minnesota Timberwolves,61,105.0,False
+1275,1993,MIN,Minnesota Timberwolves,62,117.2,True
+1276,1992,MIN,Minnesota Timberwolves,63,117.0,True
+1277,1991,MIN,Minnesota Timberwolves,67,84.3,False
+1278,1990,MIN,Minnesota Timberwolves,53,97.3,True
+1279,1989,MIN,Minnesota Timberwolves,60,90.5,True
+1280,2019,TOR,Toronto Raptors,19,86.3,False
+1281,2018,TOR,Toronto Raptors,24,99.6,True
+1282,2017,TOR,Toronto Raptors,23,121.2,False
+1283,2016,TOR,Toronto Raptors,31,114.3,True
+1284,2015,TOR,Toronto Raptors,26,105.4,True
+1285,2014,TOR,Toronto Raptors,33,110.9,True
+1286,2013,TOR,Toronto Raptors,34,106.5,False
+1287,2012,TOR,Toronto Raptors,48,91.3,False
+1288,2011,TOR,Toronto Raptors,43,113.0,True
+1289,2010,TOR,Toronto Raptors,60,111.1,True
+1290,2009,TOR,Toronto Raptors,42,120.7,False
+1291,2008,TOR,Toronto Raptors,49,119.6,False
+1292,2007,TOR,Toronto Raptors,41,113.5,True
+1293,2006,TOR,Toronto Raptors,35,121.2,False
+1294,2005,TOR,Toronto Raptors,55,94.3,True
+1295,2004,TOR,Toronto Raptors,49,89.3,False
+1296,2003,TOR,Toronto Raptors,49,120.8,True
+1297,2002,TOR,Toronto Raptors,58,114.6,False
+1298,2001,TOR,Toronto Raptors,40,124.6,True
+1299,2000,TOR,Toronto Raptors,35,87.0,False
+1300,1999,TOR,Toronto Raptors,37,123.4,False
+1301,1998,TOR,Toronto Raptors,27,107.5,True
+1302,1997,TOR,Toronto Raptors,66,111.7,True
+1303,1996,TOR,Toronto Raptors,52,110.4,True
+1304,1995,TOR,Toronto Raptors,61,117.3,True
+1305,2019,WAS,Washington Wizards,47,108.7,True
+1306,2018,WAS,Washington Wizards,50,121.5,True
+1307,2017,WAS,Washington Wizards,39,83.9,False
+1308,2016,WAS,Washington Wizards,33,82.3,True
+1309,2015,WAS,Washington Wizards,41,97.5,True
+1310,2014,WAS,Washington Wizards,36,90.1,True
+1311,2013,WAS,Washington Wizards,38,89.5,True
+1312,2012,WAS,Washington Wizards,53,85.2,True
+1313,2011,WAS,Washington Wizards,46,93.9,True
+1314,2010,WAS,Washington Wizards,59,86.8,False
+1315,2009,WAS,Washington Wizards,56,120.4,False
+1316,2008,WAS,Washington Wizards,63,99.1,False
+1317,2007,WAS,Washington Wizards,39,114.5,True
+1318,2006,WAS,Washington Wizards,41,91.3,True
+1319,2005,WAS,Washington Wizards,40,99.7,False
+1320,2004,WAS,Washington Wizards,37,96.3,False
+1321,2003,WAS,Washington Wizards,57,84.8,False
+1322,2002,WAS,Washington Wizards,45,123.3,False
+1323,2001,WAS,Washington Wizards,45,95.7,True
+1324,2000,WAS,Washington Wizards,63,87.4,True
+1325,1999,WAS,Washington Wizards,53,97.1,True
+1326,1998,WAS,Washington Wizards,32,108.3,True
+1327,1997,WAS,Washington Wizards,40,110.0,True
+1328,1996,WAS,Washington Bullets,38,106.5,False
+1329,1995,WAS,Washington Bullets,43,92.1,True
+1330,1994,WAS,Washington Bullets,61,101.1,False
+1331,1993,WAS,Washington Bullets,58,122.4,True
+1332,1992,WAS,Washington Bullets,60,111.4,True
+1333,1991,WAS,Washington Bullets,57,84.6,True
+1334,1990,WAS,Washington Bullets,52,90.6,True
+1335,1989,WAS,Washington Bullets,51,116.4,True
+1336,1988,WAS,Washington Bullets,42,93.3,True
+1337,1987,WAS,Washington Bullets,44,96.5,True
+1338,1986,WAS,Washington Bullets,40,96.7,True
+1339,1985,WAS,Washington Bullets,43,88.8,True
+1340,1984,WAS,Washington Bullets,42,96.0,True
+1341,1983,WAS,Washington Bullets,47,95.6,False
+1342,1982,WAS,Washington Bullets,40,109.9,True
+1343,1981,WAS,Washington Bullets,39,85.4,False
+1344,1980,WAS,Washington Bullets,43,109.8,True
+1345,1979,WAS,Washington Bullets,43,87.0,True
+1346,1978,WAS,Washington Bullets,28,89.8,True
+1347,1977,WAS,Washington Bullets,38,115.4,True
+1348,1976,WAS,Washington Bullets,34,109.9,True
+1349,1975,WAS,Washington Bullets,34,89.4,True
+1350,1974,WAS,Washington Bullets,22,95.0,False
+1351,1973,WAS,Capital Bullets,35,92.4,False
+1352,1972,WAS,Baltimore Bullets,30,84.7,True
+1353,1971,WAS,Baltimore Bullets,44,82.7,True
+1354,1970,WAS,Baltimore Bullets,40,115.7,False
+1355,1969,WAS,Baltimore Bullets,32,83.0,True
+1356,1968,WAS,Baltimore Bullets,25,90.9,False
+1357,1967,WAS,Baltimore Bullets,46,96.2,False
+1358,1966,WAS,Baltimore Bullets,61,103.5,False
+1359,1965,WAS,Baltimore Bullets,42,95.2,True
+1360,1964,WAS,Baltimore Bullets,43,97.7,True
+1361,1963,WAS,Baltimore Bullets,49,109.7,False
+1362,1962,WAS,Chicago Zephyrs,55,119.9,True
+1363,1961,WAS,Chicago Packers,62,91.5,True
+1364,2019,MEM,Memphis Grizzlies,39,106.9,False
+1365,2018,MEM,Memphis Grizzlies,49,116.9,False
+1366,2017,MEM,Memphis Grizzlies,60,108.3,False
+1367,2016,MEM,Memphis Grizzlies,39,99.8,False
+1368,2015,MEM,Memphis Grizzlies,40,118.9,False
+1369,2014,MEM,Memphis Grizzlies,27,88.0,False
+1370,2013,MEM,Memphis Grizzlies,32,102.0,False
+1371,2012,MEM,Memphis Grizzlies,26,94.9,True
+1372,2011,MEM,Memphis Grizzlies,25,103.4,False
+1373,2010,MEM,Memphis Grizzlies,36,111.3,True
+1374,2009,MEM,Memphis Grizzlies,42,92.5,False
+1375,2008,MEM,Memphis Grizzlies,58,109.3,True
+1376,2007,MEM,Memphis Grizzlies,60,96.3,False
+1377,2006,MEM,Memphis Grizzlies,60,86.0,True
+1378,2005,MEM,Memphis Grizzlies,33,120.9,False
+1379,2004,MEM,Memphis Grizzlies,37,90.6,True
+1380,2003,MEM,Memphis Grizzlies,32,104.9,True
+1381,2002,MEM,Memphis Grizzlies,54,103.9,False
+1382,2001,MEM,Memphis Grizzlies,59,116.7,True
+1383,2000,MEM,Vancouver Grizzlies,59,116.1,False
+1384,1999,MEM,Vancouver Grizzlies,60,109.2,True
+1385,1998,MEM,Vancouver Grizzlies,42,120.4,False
+1386,1997,MEM,Vancouver Grizzlies,63,83.5,False
+1387,1996,MEM,Vancouver Grizzlies,68,116.2,False
+1388,1995,MEM,Vancouver Grizzlies,67,110.3,True
+1389,2019,CHA,Charlotte Hornets,42,113.1,False
+1390,2018,CHA,Charlotte Hornets,43,86.6,True
+1391,2017,CHA,Charlotte Hornets,46,96.2,False
+1392,2016,CHA,Charlotte Hornets,46,88.4,False
+1393,2015,CHA,Charlotte Hornets,34,98.4,False
+1394,2014,CHA,Charlotte Hornets,49,105.2,False
+1395,2013,CHA,Charlotte Bobcats,39,100.3,True
+1396,2012,CHA,Charlotte Bobcats,61,90.2,True
+1397,2011,CHA,Charlotte Bobcats,59,119.5,False
+1398,2010,CHA,Charlotte Bobcats,48,113.8,False
+1399,2009,CHA,Charlotte Bobcats,38,113.8,True
+1400,2008,CHA,Charlotte Bobcats,47,116.1,True
+1401,2007,CHA,Charlotte Bobcats,50,84.6,True
+1402,2006,CHA,Charlotte Bobcats,49,85.8,False
+1403,2005,CHA,Charlotte Bobcats,56,95.1,False
+1404,2004,CHA,Charlotte Bobcats,64,115.8,True
+1405,2003,CHA,Charlotte Hornets,38,109.8,True
+1406,2002,CHA,Charlotte Hornets,36,86.5,True
+1407,2001,CHA,Charlotte Hornets,33,86.8,True
+1408,2000,CHA,Charlotte Hornets,24,123.1,True
+1409,1999,CHA,Charlotte Hornets,31,92.6,False
+1410,1998,CHA,Charlotte Hornets,28,118.5,True
+1411,1997,CHA,Charlotte Hornets,41,112.2,True
+1412,1996,CHA,Charlotte Hornets,32,112.4,True
+1413,1995,CHA,Charlotte Hornets,41,90.0,True
+1414,1994,CHA,Charlotte Hornets,38,114.9,True
+1415,1993,CHA,Charlotte Hornets,51,86.1,False
+1416,1992,CHA,Charlotte Hornets,56,117.6,False
+1417,1991,CHA,Charlotte Hornets,63,103.7,True
+1418,1990,CHA,Charlotte Hornets,62,98.2,False
+1419,2019,OKC,Oklahoma City Thunder,28,109.8,True
+1420,2018,OKC,Oklahoma City Thunder,33,116.6,False
+1421,2017,OKC,Oklahoma City Thunder,34,97.4,False
+1422,2016,OKC,Oklahoma City Thunder,35,88.4,True
+1423,2015,OKC,Oklahoma City Thunder,27,118.8,True
+1424,2014,OKC,Oklahoma City Thunder,37,115.9,True
+1425,2013,OKC,Oklahoma City Thunder,23,105.2,True
+1426,2012,OKC,Oklahoma City Thunder,22,103.1,True
+1427,2011,OKC,Oklahoma City Thunder,19,88.4,False
+1428,2010,OKC,Oklahoma City Thunder,27,97.0,True
+1429,2009,OKC,Oklahoma City Thunder,32,99.9,True
+1430,2008,OKC,Oklahoma City Thunder,59,106.4,True
+1431,2007,OKC,Seattle SuperSonics,62,117.8,True
+1432,2006,OKC,Seattle SuperSonics,51,105.8,False
+1433,2005,OKC,Seattle SuperSonics,47,119.9,True
+1434,2004,OKC,Seattle SuperSonics,30,109.8,True
+1435,2003,OKC,Seattle SuperSonics,45,95.2,False
+1436,2002,OKC,Seattle SuperSonics,42,123.6,False
+1437,2001,OKC,Seattle SuperSonics,37,124.6,False
+1438,2000,OKC,Seattle SuperSonics,38,123.5,True
+1439,1999,OKC,Seattle SuperSonics,37,90.3,False
+1440,1998,OKC,Seattle SuperSonics,25,108.1,True
+1441,1997,OKC,Seattle SuperSonics,21,118.4,True
+1442,1996,OKC,Seattle SuperSonics,25,111.7,False
+1443,1995,OKC,Seattle SuperSonics,18,124.8,False
+1444,1994,OKC,Seattle SuperSonics,25,83.0,False
+1445,1993,OKC,Seattle SuperSonics,19,122.5,False
+1446,1992,OKC,Seattle SuperSonics,27,106.3,False
+1447,1991,OKC,Seattle SuperSonics,35,102.7,True
+1448,1990,OKC,Seattle SuperSonics,41,113.8,False
+1449,1989,OKC,Seattle SuperSonics,41,95.7,True
+1450,1988,OKC,Seattle SuperSonics,35,124.9,True
+1451,1987,OKC,Seattle SuperSonics,38,98.6,False
+1452,1986,OKC,Seattle SuperSonics,43,82.9,True
+1453,1985,OKC,Seattle SuperSonics,51,116.3,False
+1454,1984,OKC,Seattle SuperSonics,51,89.2,True
+1455,1983,OKC,Seattle SuperSonics,40,102.9,True
+1456,1982,OKC,Seattle SuperSonics,34,107.5,False
+1457,1981,OKC,Seattle SuperSonics,30,88.4,False
+1458,1980,OKC,Seattle SuperSonics,48,117.3,True
+1459,1979,OKC,Seattle SuperSonics,26,122.2,True
+1460,1978,OKC,Seattle SuperSonics,30,93.1,True
+1461,1977,OKC,Seattle SuperSonics,35,104.6,True
+1462,1976,OKC,Seattle SuperSonics,42,116.0,False
+1463,1975,OKC,Seattle SuperSonics,39,89.7,True
+1464,1974,OKC,Seattle SuperSonics,39,110.5,True
+1465,1973,OKC,Seattle SuperSonics,46,122.1,False
+1466,1972,OKC,Seattle SuperSonics,56,118.4,True
+1467,1971,OKC,Seattle SuperSonics,35,124.4,False
+1468,1970,OKC,Seattle SuperSonics,44,122.6,True
+1469,1969,OKC,Seattle SuperSonics,46,99.0,True
+1470,1968,OKC,Seattle SuperSonics,52,83.5,True
+1471,1967,OKC,Seattle SuperSonics,59,121.5,False
